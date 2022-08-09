@@ -9,6 +9,10 @@
  * @width: get width
  * @precision: Precision specification
  * @size: Size specifier
+ *
+ * Description: Prints the unsigned numbers,
+ * the if statement checks the existance of the number,
+ * the while loops through the buffer.
  * Return: Number of chars printed.
  */
 int print_unsigned(va_list types, char buffer[],
