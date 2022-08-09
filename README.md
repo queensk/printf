@@ -1,5 +1,5 @@
 # A colaboration on printf
-#rintf()
+# printf()
 
 
 
@@ -10,3 +10,9 @@ The print funcion allows the Printing of > any combinations of strings, interger
 
 ## Compilation
 To compile the code use ``` $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c```
+
+## File Structure
+```
+print.c ---------------------------- holds custom _printf function
+main.h ------------------------ holds prototypes of functions spread across all files
+```
