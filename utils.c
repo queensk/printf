@@ -19,6 +19,9 @@ int is_printable(char c)
  * @buffer: Array of chars.
  * @i: Index at which to start appending.
  * @ascii_code: ASSCI CODE.
+ *
+ * Description: The function lookes at the ascci code and appends to,
+ * the hexadecimal code to buffer.
  * Return: Always 3
  */
 int append_hexa_code(char ascii_code, char buffer[], int i)
