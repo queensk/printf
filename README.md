@@ -1,7 +1,6 @@
 # A colaboration on printf
-# printf()
-
-
+#  Description
+## printf()
 
 This project recreates a version of ``` printf() ``` function in the ```stdio.h``` in C library.
 
